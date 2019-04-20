@@ -1,5 +1,5 @@
 # İş Bankası Döviz
-İşbankası API &amp; .NET Core ile bilgileri çeken console app
+İşbankası API &amp; .NET Core ile  döviz bilgisi çeken console app
 
 https://sandbox.isbank.com.tr/login İş Bankası api üzerinden günlük bazda döviz bilgilerini çeken ufak bir .net core console app hazırlmaya çalıştım. 
 
