@@ -3,6 +3,6 @@
 
 https://sandbox.isbank.com.tr/login İş Bankası api üzerinden günlük bazda döviz bilgilerini çeken ufak bir .net core console app hazırlmaya çalıştım. 
 
-##Teknolojiler
+## Teknolojiler
 - .Net Core 2.2
 - MongoDB 4.0
